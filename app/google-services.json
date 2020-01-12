@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "29998673107",
+    "firebase_url": "https://chatlogin-6d2a7.firebaseio.com",
+    "project_id": "chatlogin-6d2a7",
+    "storage_bucket": "chatlogin-6d2a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29998673107:android:768755e0d29add2a157826",
+        "android_client_info": {
+          "package_name": "com.example.chatlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29998673107-k323serqq8uovajhnmist68dei4ajo7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatlogin",
+            "certificate_hash": "f1233269e2df1eef41c0bccac01cf82a8e87da7b"
+          }
+        },
+        {
+          "client_id": "29998673107-kv8agjr3dpkfs5oltdn67fbddn8tfl34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGpZkGMGZE0J-dhaoDxe5eRoHzvb-ynoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29998673107-kv8agjr3dpkfs5oltdn67fbddn8tfl34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
